@@ -152,7 +152,7 @@ table.body .article {
                
                 <tr>
                   <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    Powered by <a href="mailto:oaknetsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Oaknet Business</a>.
+                    Powered by <a href="mailto:Internsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Intern Business</a>.
                   </td>
                 </tr>
                  <!-- start social media icons -->

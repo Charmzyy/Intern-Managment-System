@@ -120,7 +120,7 @@ table.body .article {
                       <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;" valign="top">
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Dear {{ $data['attachee'] }}</p>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
-                            I am pleased to inform you that you have been assigned {{ $data['supervisor']->name}} as your supervisor for your internship at Oaknet.  {{ $data['supervisor']->name}} will be responsible for overseeing your work,
+                            I am pleased to inform you that you have been assigned {{ $data['supervisor']->name}} as your supervisor for your internship at intern.  {{ $data['supervisor']->name}} will be responsible for overseeing your work,
                              providing guidance and feedback, and
                              answering any questions you may have during your internship.
                         </p>
@@ -148,7 +148,7 @@ table.body .article {
                        
                           <p>Warm Regards</p>
                           <p> Admin,</p>
-                          <p><a href="mailto:oaknetsup@gmail.com">Oaknet Support</a></p>
+                          <p><a href="mailto:internsup@gmail.com">intern Support</a></p>
                         
                    
                    
@@ -167,13 +167,13 @@ table.body .article {
               <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%">
                 <tr>
                   <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Oaknet Business Ralph Bunche road,  upperhill Nairobi</span>
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">intern Business Ralph Bunche road,  upperhill Nairobi</span>
                     
                   </td>
                 </tr>
                 <tr>
                   <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    Powered by <a href="mailto:oaknetsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Oaknet Business</a>.
+                    Powered by <a href="mailto:internsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">intern Business</a>.
                   </td>
                 </tr>
                  <!-- start social media icons -->

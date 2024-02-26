@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Welcome To Oaknet</title>
+  <title>Welcome To Intern</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style type="text/css">
   /**
@@ -108,7 +108,7 @@
   <!-- start preheader -->
   <div class="preheader" style="display: none; max-width: 0; max-height: 0; overflow: hidden; font-size: 1px; line-height: 1px; color: #fff; opacity: 0;">
   
-    Thank you for applying for internship at Oaknet.
+    Thank you for applying for internship at Intern.
   </div>
   <!-- end preheader -->
 
@@ -235,8 +235,8 @@
           <tr>
             <td align="center" bgcolor="#e9ecef" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
              
-              <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:oaknetsup@gmail.com">OaknetSupport</a> or call us at 123-456-7890.</p>
-              <p style="margin: 0;">Oaknet Business Ralph Bunche road,  upperhill Nairobi</p>
+              <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:Internsup@gmail.com">InternSupport</a> or call us at 123-456-7890.</p>
+              <p style="margin: 0;">Intern Business Ralph Bunche road,  upperhill Nairobi</p>
             </td>
           </tr>
         

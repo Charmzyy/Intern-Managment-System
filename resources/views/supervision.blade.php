@@ -151,7 +151,7 @@ table.body .article {
                         <ul>
                           <li>Warm Regards</li>
                           <li> Admin</li>
-                          <li><a href="mailto:oaknetsup@gmail.com">Oaknet Support</a></li>
+                          <li><a href="mailto:oaknetsup@gmail.com">Intern Support</a></li>
                         </ul>
                    
                    
@@ -170,13 +170,13 @@ table.body .article {
               <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%">
                 <tr>
                   <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Oaknet Business Ralph Bunche road,  upperhill Nairobi</span>
+                    <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Intern Business Ralph Bunche road,  upperhill Nairobi</span>
                     
                   </td>
                 </tr>
                 <tr>
                   <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;" valign="top" align="center">
-                    Powered by <a href="mailto:oaknetsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Oaknet Business</a>.
+                    Powered by <a href="mailto:oaknetsup@gmail.com" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">Intern Business</a>.
                   </td>
                 </tr>
                  <!-- start social media icons -->

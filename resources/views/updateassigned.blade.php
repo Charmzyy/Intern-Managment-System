@@ -143,7 +143,7 @@ table.body .article {
                         <ul>
                           <li>Warm Regards</li>
                           <li> Admin</li>
-                          <li><a href="mailto:oaknetsup@gmail.com">Oaknet Support</a></li>
+                          <li><a href="mailto:oaknetsup@gmail.com">Intern Support</a></li>
                         </ul>
                    
                    

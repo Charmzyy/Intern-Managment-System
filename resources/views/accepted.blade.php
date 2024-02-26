@@ -6,7 +6,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Welcome To Oaknet</title>
+  <title>Welcome To Intern</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style type="text/css">
   /**
@@ -154,7 +154,7 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
           <tr>
             <td align="left" bgcolor="#ffffff" style="padding: 36px 24px 0; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; border-top: 3px solid #d4dadf;">
-              <h1 style="margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px;">Welcome To Oaknet</h1>
+              <h1 style="margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px;">Welcome To Intern</h1>
             </td>
           </tr>
         </table>
@@ -240,8 +240,8 @@ We recommend you change your password within 24hrs for security purposes.
           <tr>
             <td align="center" bgcolor="#e9ecef" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
              
-              <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:oaknetsup@gmail.com">Oaknet Support</a> or call us at 123-456-7890.</p>
-              <p style="margin: 0;">Oaknet Business Ralph Bunche road,  upperhill Nairobi</p>
+              <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:Internsup@gmail.com">Intern Support</a> or call us at 123-456-7890.</p>
+              <p style="margin: 0;">Intern Business Ralph Bunche road,  upperhill Nairobi</p>
             </td>
           </tr>
         

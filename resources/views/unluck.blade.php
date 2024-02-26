@@ -230,7 +230,7 @@
               <!-- start permission -->
               <tr>
                 <td align="center" bgcolor="#e9ecef" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
-                  <p style="margin: 0;">You received this email because you had  applied for internship at oaknet . If you didn't request this you can safely delete this email.</p>
+                  <p style="margin: 0;">You received this email because you had  applied for internship at intern. If you didn't request this you can safely delete this email.</p>
                 </td>
               </tr>
               <!-- end permission -->
@@ -239,8 +239,8 @@
               <tr>
                 <td align="center" bgcolor="#e9ecef" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
                  
-                  <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:oaknetsup@gmail.com">Oaknet Support</a> or call us at 123-456-7890.</p>
-                  <p style="margin: 0;">Oaknet Business Ralph Bunche road,  upperhill Nairobi</p>
+                  <p style="margin: 0;">For further assistance, please contact us at <a href="mailto:oaknetsup@gmail.com">internSupport</a> or call us at 123-456-7890.</p>
+                  <p style="margin: 0;">internBusiness Ralph Bunche road,  upperhill Nairobi</p>
                 </td>
               </tr>
             

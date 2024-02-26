@@ -110,7 +110,7 @@
        <!-- start preheader -->
        <div class="preheader" style="display: none; max-width: 0; max-height: 0; overflow: hidden; font-size: 1px; line-height: 1px; color: #fff; opacity: 0;">
        
-         Thank you for applying for internship at Oaknet.
+         Thank you for applying for internship atintern .
        </div>
        <!-- end preheader -->
      
@@ -229,7 +229,7 @@
                <!-- start permission -->
                <tr>
                  <td align="center" bgcolor="#e9ecef" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
-                   <p style="margin: 0;">You received this email because you had  applied for internship at oaknet . If you didn't request this you can safely delete this email.</p>
+                   <p style="margin: 0;">You received this email because you had  applied for internship atintern  . If you didn't request this you can safely delete this email.</p>
                  </td>
                </tr>
                <!-- end permission -->
